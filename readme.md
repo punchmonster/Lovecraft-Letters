@@ -17,4 +17,8 @@ Please include all typographic elements possible in UTF-8 encoding. Style it usi
 Please include a photo of the original letter source for verification.
 If there are any visual elements that can't be implemented in the markdown file, please include them as a `.png` file with the same title as the markdown file.
 
+## License
+
+Just mention the LetterCraft project and link back to it so other people may learn of the preservation effort.
+
 Project by Punchmonster
