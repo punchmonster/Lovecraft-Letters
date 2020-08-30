@@ -1,6 +1,6 @@
-c/o Barlow,
-Box 88,
-De Land, Fla.,
+c/o Barlow,  
+Box 88,  
+De Land, Fla.,  
 May 21, 1934.
 
 My dear Wright:—
@@ -9,5 +9,5 @@ I am interested to hear of your plan to reprint the *Arthur Jermyn* tale—which
 
 ..................
 
-Yrs, most sincerely.
+Yrs, most sincerely.  
 H. P. L.
