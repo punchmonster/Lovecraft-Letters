@@ -1,4 +1,4 @@
-Out on Prospect Terrace
+Out on Prospect Terrace  
 April 3-7-8, 1934
 
 Dear Ar-I--E'ch:—
@@ -13,5 +13,5 @@ Quite an amusing debate is going on over the original German Title of our old fr
 
 .........
 
-Yr. most obt Servnt.,
+Yr. most obt Servnt.,  
 E'ch-Pi-El
