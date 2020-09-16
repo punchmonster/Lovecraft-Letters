@@ -14,8 +14,8 @@ Please include all typographic elements possible in UTF-8 encoding. Style it usi
 
 ### Other
 
-Please include a photo of the original letter source for verification.
-If there are any visual elements that can't be implemented in the markdown file, please include them as a `.png` file with the same title as the markdown file.
+Please include a photo of the original letter source and evidence of provenance for verification.
+If there are any visual elements that can't be implemented in the markdown file, please include them as a `.png` file with the same title as the markdown file. If multiple images are attached please append the image title with `-1`, with increasing integers for more images.
 
 ## License
 
